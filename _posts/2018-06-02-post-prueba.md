@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Título de la publicación
 author: David Charte
-published: false
+published: true
 category: programación
 tags:
   - jekyll
